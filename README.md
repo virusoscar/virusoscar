@@ -57,3 +57,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=70ffaf&height=100&section=footer" width="100%"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/[TU_USUARIO_AQUÍ]">
+    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&include_all_commits=true&count_weight=0.5" />
+  </a>
+  
+  <a href="https://github.com/[TU_USUARIO_AQUÍ]">
+    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&hide_progress=false&langs_count=6" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=[TU_USUARIO_WAKATIME]&theme=radical&layout=compact" />
+</p>
