@@ -1,6 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy [Tu Nombre] 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <img src="https://socialify.git.ci/github/gh-profile-readme-generator/image?font=Inter&name=[TU_USUARIO_AQUÍ]&owner=true&pattern=Circuit%20Board&theme=Dark" alt="Banner" width="600" />
 
