@@ -57,17 +57,14 @@
   </a>
 </p>
 
----
+### 🎮 Player Status (DayZ Edition)
 
-### 🎮 Estado del Jugador (DayZ & Modding)
-<p align="left">
-  <b>Supervivencia en Chernarus:</b> 🟩🟩🟩🟩⬜ 80% <br>
-  <b>Habilidad de Modding:</b> 🟩🟩⬜⬜⬜ 40% <br>
-  <b>Paciencia con Bugs de 1º DAW:</b> 🟩🟩🟩🟩🟩 100% <br>
-  <b>Horas de sueño:</b> 🟥⬜⬜⬜⬜ 10%
-</p>
-
----
+| Atributo | Nivel |
+| :--- | :--- |
+| **Supervivencia** | 🟩🟩🟩🟩⬜ 80% |
+| **Modding Skill** | 🟩🟩⬜⬜⬜ 40% |
+| **Paciencia DAW** | 🟩🟩🟩🟩🟩 100% |
+| **Energy / Sueño** | 🟥⬜⬜⬜⬜ 10% |
 
 ### ⏳ Tiempo de Programación (WakaTime)
 <p align="center">
