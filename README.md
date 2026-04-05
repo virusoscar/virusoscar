@@ -51,21 +51,6 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&langs_count=6" />
-</p>
-
----
-
-### 🎮 Estado del Jugador (Edición DayZ)
-
-| Atributo | Nivel |
-| :--- | :--- |
-| **Supervivencia** | 🟩🟩🟩🟩⬜ 80% |
-| **Habilidad de Modding** | 🟩🟩⬜⬜⬜ 40% |
-| **Paciencia DAW** | 🟩🟩🟩🟩🟩 100% |
-| **Energía / Sueño** | 🟥⬜⬜⬜⬜ 10% |
 
 ---
 
