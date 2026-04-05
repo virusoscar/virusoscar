@@ -41,35 +41,54 @@
 ---
 
 ## 🛠️ Skills & Tecnologías (DAW)
-<br>
+## 🛠️ My Skills
 
-<p align="left">
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"> </picture> Programming Languages
 
-- **Desarrollo Front-End**:
-    
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Desarrollo Back-End y Bases de Datos**:
-
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-- **Herramientas y Control de Versiones**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
 </p>
 
-<br>
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"> </picture> Frontend Development
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>    
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+</p>
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"> </picture> Software & Tools
+
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+  <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=plastic&logo=googledrive&logoColor=white"></a>
+</p>
+
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"> </picture> IDEs
+
+<p align="center">
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+</p>
+
 ### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50px"> </picture> Operating Systems
 
 <p align="center">
