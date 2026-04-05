@@ -46,17 +46,6 @@
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&hide_border=false" alt="Stats" width="400" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&hide_border=false" alt="Langs" width="300" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=70ffaf&height=100&section=footer" width="100%"/>
-</div>
 
 <p align="center">
   <a href="https://github.com/[TU_USUARIO_AQUÍ]">
@@ -68,8 +57,25 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=[TU_USUARIO_WAKATIME]&theme=radical&layout=compact" />
+---
+
+### 🎮 Estado del Jugador (DayZ & Modding)
+<p align="left">
+  <b>Supervivencia en Chernarus:</b> 🟩🟩🟩🟩⬜ 80% <br>
+  <b>Habilidad de Modding:</b> 🟩🟩⬜⬜⬜ 40% <br>
+  <b>Paciencia con Bugs de 1º DAW:</b> 🟩🟩🟩🟩🟩 100% <br>
+  <b>Horas de sueño:</b> 🟥⬜⬜⬜⬜ 10%
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+---
+
+### ⏳ Tiempo de Programación (WakaTime)
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=[TU_USUARIO_WAKATIME]&theme=radical&layout=compact" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70ffaf&height=100&section=footer" width="100%"/>
+</div>
