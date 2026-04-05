@@ -1,4 +1,6 @@
 <div align="center">
+
+<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
@@ -7,6 +9,10 @@
 ### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
 
 "Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicación-España-yellow?style=for-the-badge&logo=espressif&logoColor=red" alt="Ubicación España" />
+</p>
 
 </div>
 ---
