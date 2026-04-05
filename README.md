@@ -4,16 +4,15 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<img src="https://socialify.git.ci/github/gh-profile-readme-generator/image?font=Inter&name=[TU_USUARIO_AQUÍ]&owner=true&pattern=Circuit%20Board&theme=Dark" alt="Banner" width="600" />
+<img src="https://socialify.git.ci/github/virusoscar/readme/image?font=Inter&owner=true&pattern=Circuit%20Board&theme=Dark" alt="Banner" width="600" />
 
-<img src="https://github.com/[TU_USUARIO_AQUÍ].png" width="130" style="border-radius: 50%; border: 3px solid #70ffaf; box-shadow: 0 0 10px rgba(112, 255, 175, 0.5);" alt="Foto de perfil" />
+<img src="https://github.com/virusoscar.png" width="130" style="border-radius: 50%; border: 3px solid #70ffaf; box-shadow: 0 0 10px rgba(112, 255, 175, 0.5);" alt="Foto de perfil de virusoscar" />
 
 ### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
 
 "Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"
 
 </div>
-
 ---
 
 ### 📂 Sobre mí
