@@ -48,31 +48,23 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/[TU_USUARIO_AQUÍ]">
-    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&include_all_commits=true&count_weight=0.5" />
-  </a>
-  
-  <a href="https://github.com/[TU_USUARIO_AQUÍ]">
-    <img height="195" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&hide_progress=false&langs_count=6" />
-  </a>
-</p>
-
-### 🎮 Player Status (DayZ Edition)
-
-| Atributo | Nivel |
-| :--- | :--- |
-| **Supervivencia** | 🟩🟩🟩🟩⬜ 80% |
-| **Modding Skill** | 🟩🟩⬜⬜⬜ 40% |
-| **Paciencia DAW** | 🟩🟩🟩🟩🟩 100% |
-| **Energy / Sueño** | 🟥⬜⬜⬜⬜ 10% |
-
-### ⏳ Tiempo de Programación (WakaTime)
-<p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=[TU_USUARIO_WAKATIME]&theme=radical&layout=compact" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
 
-<div align="center">
+### 🎮 Estado del Jugador (Edición DayZ)
+
+| Atributo | Nivel |
+| :--- | :--- |
+| **Supervivencia** | 🟩🟩🟩🟩⬜ 80% |
+| **Habilidad de Modding** | 🟩🟩⬜⬜⬜ 40% |
+| **Paciencia DAW** | 🟩🟩🟩🟩🟩 100% |
+| **Energía / Sueño** | 🟥⬜⬜⬜⬜ 10% |
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=70ffaf&height=100&section=footer" width="100%"/>
-</div>
+</p>
