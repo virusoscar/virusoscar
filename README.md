@@ -5,6 +5,9 @@
 </div>
 
 <img src="https://github.com/virusoscar.png" width="130" style="border-radius: 50%; border: 3px solid #70ffaf; box-shadow: 0 0 10px rgba(112, 255, 175, 0.5);" alt="Foto de perfil de virusoscar" />
+</div>
+
+---
 
 ### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
 
