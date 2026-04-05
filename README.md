@@ -98,13 +98,13 @@
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+
 ---
 
 ### 📊 Mis Estadísticas de GitHub
 
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=70ffaf&height=100&section=footer" width="100%"/>
 </p>
+
+---
