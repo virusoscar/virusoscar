@@ -11,8 +11,7 @@
 <div align="center">
 
 ### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
-
-*"Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"*
+### "Convirtiendo café en código, con ganas de aprender y siempre listo para ayudar en nuevos proyectos 🚀☕️"
 
 <img src="https://img.shields.io/badge/Ubicación-España-yellow?style=for-the-badge&logo=espressif&logoColor=red" alt="Ubicación España" />
 
