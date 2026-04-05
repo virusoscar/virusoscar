@@ -8,15 +8,13 @@
 </div>
 
 ---
-<center>
-  ### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
-</center>
+<div align="center">
 
-"Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"
+### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubicación-España-yellow?style=for-the-badge&logo=espressif&logoColor=red" alt="Ubicación España" />
-</p>
+*"Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"*
+
+<img src="https://img.shields.io/badge/Ubicación-España-yellow?style=for-the-badge&logo=espressif&logoColor=red" alt="Ubicación España" />
 
 </div>
 ---
