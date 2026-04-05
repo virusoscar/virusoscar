@@ -71,3 +71,5 @@
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=[TU_USUARIO_WAKATIME]&theme=radical&layout=compact" />
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
