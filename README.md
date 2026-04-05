@@ -21,6 +21,7 @@
 - 🛠️ Me encanta el mundo de los **videojuegos** y hacer modificaciones (modding).
 - 🌲 Últimamente estoy viciado al **DayZ**; llevo pocos meses pero aprendiendo a tope.
 - 🔭 Busco colaborar en proyectos de código abierto o mods interesantes.
+- 📫 Contacto: **unsimpledev@gmail.com**
 
 ---
 
