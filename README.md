@@ -8,8 +8,9 @@
 </div>
 
 ---
-
-### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
+<center>
+  ### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
+</center>
 
 "Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"
 
