@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-<h2> HOlaaa <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hola bienvenido a mi perfil de GitHub <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <img src="https://github.com/virusoscar.png" width="130" style="border-radius: 50%; border: 3px solid #70ffaf; box-shadow: 0 0 10px rgba(112, 255, 175, 0.5);" alt="Foto de perfil de virusoscar" />
