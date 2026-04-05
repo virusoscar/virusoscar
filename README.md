@@ -31,6 +31,9 @@
   <a href="https://twitter.com/[TU_USUARIO_TWITTER]" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/[TU_USUARIO_INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discord.com/channels/@_oscar06" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/_oscar06" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord @_oscar06" />
+</a>
 </p>
 
 ---
