@@ -1,18 +1,59 @@
-# 💫 About Me:
-👋 ¡Hola! Soy estudiante de 1º de DAW (Desarrollo de Aplicaciones Web). Utilizo este GitHub principalmente para mis estudios y proyectos de clase. Además, soy un apasionado de los videojuegos y el modding; actualmente estoy muy enfocado en aprender y hacer modificaciones para DayZ, un juego que me encanta y en el que llevo apenas unos meses explorando sus posibilidades. 🚀
+<div align="center">
 
+# ¡Hola! Soy [Tu Nombre] 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_oscar06) 
+<img src="https://socialify.git.ci/github/gh-profile-readme-generator/image?font=Inter&name=[TU_USUARIO_AQUÍ]&owner=true&pattern=Circuit%20Board&theme=Dark" alt="Banner" width="600" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=virusoscar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=virusoscar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=virusoscar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github.com/[TU_USUARIO_AQUÍ].png" width="130" style="border-radius: 50%; border: 3px solid #70ffaf; box-shadow: 0 0 10px rgba(112, 255, 175, 0.5);" alt="Foto de perfil" />
+
+### 🚀 Estudiante de 1º de DAW | Gamer & Modder 🎮
+
+"Convirtiendo café en código y sobreviviendo en Chernarus 🧟‍♂️☕️"
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=virusoscar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📂 Sobre mí
+- 🏫 Actualmente cursando **1º de DAW (Desarrollo de Aplicaciones Web)**.
+- 💻 Uso este GitHub para mis proyectos de clase, prácticas y mis pinitos en el desarrollo.
+- 🛠️ Me encanta el mundo de los **videojuegos** y hacer modificaciones (modding).
+- 🌲 Últimamente estoy viciado al **DayZ**; llevo pocos meses pero aprendiendo a tope.
+- 🔭 Busco colaborar en proyectos de código abierto o mods interesantes.
+
+---
+
+### 🌐 Redes sociales
+<p align="left">
+  <a href="https://linkedin.com/in/[TU_USUARIO_LINKEEDIN]" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/[TU_USUARIO_TWITTER]" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/[TU_USUARIO_INSTAGRAM]" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/[TU_INVITACION_DISCORD]" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+---
+
+### 🛠️ Tecnologías que estoy aprendiendo (DAW)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_AQUÍ]&show_icons=true&theme=radical&hide_border=false" alt="Stats" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_AQUÍ]&layout=compact&theme=radical&hide_border=false" alt="Langs" width="300" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70ffaf&height=100&section=footer" width="100%"/>
+</div>
